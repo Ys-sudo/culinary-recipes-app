@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/culinary-recipes-app/static/css/main.0d7a7556.css",
+    "main.js": "/culinary-recipes-app/static/js/main.8e654c27.js",
+    "static/js/787.a193592f.chunk.js": "/culinary-recipes-app/static/js/787.a193592f.chunk.js",
+    "index.html": "/culinary-recipes-app/index.html",
+    "main.0d7a7556.css.map": "/culinary-recipes-app/static/css/main.0d7a7556.css.map",
+    "main.8e654c27.js.map": "/culinary-recipes-app/static/js/main.8e654c27.js.map",
+    "787.a193592f.chunk.js.map": "/culinary-recipes-app/static/js/787.a193592f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7a7556.css",
+    "static/js/main.8e654c27.js"
+  ]
+}
